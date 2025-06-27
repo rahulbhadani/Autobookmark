@@ -19,6 +19,7 @@ The extension automatically saves all open tabs every 2 minutes. Bookmarks are o
 The folder structure may look like this:
 
 Bookmarks Bar
+
 └── Tab Auto-Saves
 
     ├── Auto-Save 2025-06-27 14:30:45
