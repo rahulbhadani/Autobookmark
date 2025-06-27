@@ -20,8 +20,11 @@ The folder structure may look like this:
 
 Bookmarks Bar
 └── Tab Auto-Saves
+
     ├── Auto-Save 2025-06-27 14:30:45
+
     ├── Auto-Save 2025-06-27 14:32:45
+    
     └── Auto-Save 2025-06-27 14:34:45
 
 
